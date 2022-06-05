@@ -1,0 +1,1 @@
+As this repository uses files from Will Durand's KiCad libs, and I respect the license on the repository, all the files in this repository are released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/) as well.
