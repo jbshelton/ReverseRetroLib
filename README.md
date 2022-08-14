@@ -23,8 +23,3 @@ The resources that I have included in this repository are:
 - For the cartridge slot, I used [William Durand's KiCad libs](https://github.com/willdurand/kicad-libs)
 - For the CPU, RAM, link port, etc. you'll need [Gekkio's KiCad libs](https://github.com/Gekkio/gekkio-kicad-libs), or make your own
 - 3D model for the [PJ307 headphone jack](https://grabcad.com/library/pj-307-stereo-connector-1)
-
----
-
-### When's this GBC repro coming out?
-At the moment (July 26th,) I have finished the first prototypes for my Ultra Boy Color PCB, as well as finished the design for the revision 2 PCB which I will be selling via my [Ko-fi page](https://ko-fi.com/reverseretro), either as a DIY kit or assembled board. I estimate that I'll be ready to sell them by mid-August.
