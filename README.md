@@ -1,5 +1,5 @@
 # GBC Reproduction Library
-I created this repository in order to share some of the resources I created while working on my own GBC reproduction circuit board, which will be available soon! Everything was designed to be used with KiCad 6.
+I created this repository in order to share some of the resources I created while working on my own GBC reproduction circuit board. Everything was designed to be used with KiCad 6.
 
 ---
 
