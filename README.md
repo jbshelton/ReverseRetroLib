@@ -1,25 +1,7 @@
-# GBC Reproduction Library
-I created this repository in order to share some of the resources I created while working on my own GBC reproduction circuit board. Everything was designed to be used with KiCad 6.
+# Reverse Retro's Engineering Library
+I created this repository in order to share some of the resources I created while working on a few projects, including my own Gameboy Color reproduction circuit board. Everything was designed to be used with KiCad 6.
 
 ---
 
-### Before you start
-I haven't 100% confirmed that everything I made is 100% accurate to measurements and working, however I think with how much time I spent on everything the measurements should be pretty sound- but take that with a grain of salt. There are a few things that will be updated in some time, but their current state is fine for this release:
-- Fix footprint for IR LED and phototransistor (make a regular 2-pad footprint that just has to be placed twice)
-- Add "tutorial" of sorts for assembling the cartridge adapter
-- Add FreeCAD source file I used to make the board outlines so others can tweak it easier
-
----
-
-### Included files
-The resources that I have included in this repository are:
-- Board outlines for both the OEM board and the custom board outline I used, which omits the hole for the voltage regulator board and the DC jack mounting hole
-- Footprints for the buttons/battery terminals, power switch, IR LEDs, volume wheel, and cartridge slot
-- PCB files for my GBA SP to GBC cartridge slot adapter and model for the 3D printable mounting bracket
-
----
-
-### Required/recommended external files
-- For the cartridge slot, I used [William Durand's KiCad libs](https://github.com/willdurand/kicad-libs)
-- For the CPU, RAM, link port, etc. you'll need [Gekkio's KiCad libs](https://github.com/Gekkio/gekkio-kicad-libs), or make your own
-- 3D model for the [PJ307 headphone jack](https://grabcad.com/library/pj-307-stereo-connector-1)
+## Important note
+This repo is currently undergoing some reworking to transform it from just stuff I made/used for my GBC repro to a collection of footprints, symbols, documentation, etc. for other stuff. I will be adding more non-Gameboy files here in the future, including symbols for the TCT-97x SNES clone chips. All of the existing/old files are in the "Gameboy" folder.
